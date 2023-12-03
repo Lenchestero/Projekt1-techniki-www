@@ -1,5 +1,5 @@
 let dinozaury3=[];
-dinozaury3=[new Dinozaur("zdjecia/velociraptorin.png","velociraptor","teropod", "1m", "2m", "Chiny, Mongolia","Mięsożerca, padlinożerca" ), new Dinozaur("zdjecia/stegazourin.png","Azylozaur","Zauropodomorf","1,8m","2m","Anglia","Roślinożerca")];
+dinozaury3=[new Dinozaur("zdjecia/velociraptorin.png","velociraptor","teropod", "1m", "2m", "Chiny, Mongolia","Mięsożerca, padlinożerca" ), new Dinozaur("zdjecia/tyranozaurin.png","Tyranozaur","teropod","6m","12m","USA, Kanada","Mięsożerca")];
 for(let i=0;i<dinozaury3.length;i++)
 {
     document.write(`<div class="dinozaury">`);
