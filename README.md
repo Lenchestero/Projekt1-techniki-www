@@ -12,3 +12,5 @@ Na stronie głównej znajduje się:
 >Definicje
 
 Na każdej stronie z okresem geologicznymi znajduje się wstęp oraz dinozaury wraz z danymi. Dinozaury są tworzone za pomocą klasy ("klasa.js") i uzupełniane w odrębnych plikach js (script2.js, script3.js, script4.js). Zdjęcia są animowane za pomocą klasy schowane i Intersection observer. 
+
+Abu uruchomić stronę wystarczy pobrać cały folder projekt1 i kliknąć dwukrotnie na index.html
